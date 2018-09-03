@@ -3,3 +3,6 @@ https://www.youtube.com/watch?v=xuB1Id2Wxak&t=0s&list=PL9ooVrP1hQOE5ZDJJsnEXZ2up
 
 https://www.youtube.com/watch?v=p7-U1_E_j3w&index=12&list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX   Jenkin Basics
 
+https://www.youtube.com/watch?v=Pv5hohD25ls&list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX&index=21 -- Basics CI CD
+
+https://www.youtube.com/watch?v=PxGGeNEdb3E&list=PL9ooVrP1hQOE5ZDJJsnEXZ2upwK7aTYiX&index=48  AWS DevOps
